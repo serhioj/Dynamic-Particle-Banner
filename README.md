@@ -17,8 +17,8 @@ The project is intended for use in an online medical journal or informational po
 
 ## Installation and Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Dynamic-Particle-Banner.git
+
+         git clone https://github.com/your-username/Dynamic-Particle-Banner.git
    
 2. Open the index.html file in any browser.
 
@@ -52,10 +52,10 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Установка и запуск
 1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ваш-логин/Dynamic-Particle-Banner.git
+   
+         git clone https://github.com/ваш-логин/Dynamic-Particle-Banner.git
 
-2. Откройте файл index.html в любом браузере.
+3. Откройте файл index.html в любом браузере.
 
 ## Использование
   Отредактируйте текст баннера в файле index.html для адаптации под свой проект.
@@ -64,5 +64,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Скриншоты
 ![изображение](https://github.com/user-attachments/assets/d12b7692-184e-4cee-b058-0149600efe86)
 
-##Лицензия
+## Лицензия
 Этот проект распространяется под лицензией MIT. Свободно используйте, модифицируйте и распространяйте код по своему усмотрению. 
